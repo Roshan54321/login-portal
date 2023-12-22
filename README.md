@@ -23,7 +23,7 @@ This project facilitates the automation of the campus (Pulchowk Campus) portal l
    ```bash
    python -m venv env && source env/bin/activate
    ```
-3. **CInstall the requirements**
+3. **Install the requirements**
    ```bash
    pip install -r requirements.txt
    ```
